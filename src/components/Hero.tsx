@@ -10,12 +10,12 @@ const Hero = () => {
           <div className="lg:pr-8">
             <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
               Онлайн-консультации с врачами
-              <span className="text-blue-600"> в удобное время</span>
+              <span className="text-blue-600"> в удобное для вас время</span>
             </h1>
 
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Получите квалифицированную медицинскую помощь, не выходя из дома.
-              Наши врачи готовы проконсультировать вас 24/7.
+              Наши врачи готовы проконсультировать вас в любое удобное время.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 mb-12">
